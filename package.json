@@ -1,0 +1,12 @@
+{
+  "name": "koa-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jacob",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.2.0",
+    "koa-body": "^2.0.1",
+    "koa-router": "^7.2.0"
+  }
+}
